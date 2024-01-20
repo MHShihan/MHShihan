@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/TY94mZS/github-cover.png)
+![I am GitHub Readme Generator's creator](https://i.ibb.co/NLZGz10/github-cover.png)
 
 
 
